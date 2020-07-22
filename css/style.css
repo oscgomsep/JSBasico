@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.action-button{
+    padding: 15px;
+    background-color: #91e9e4;
+    border-radius: 10px;
+    color: #ffffff;
+    margin: 20px;
+}

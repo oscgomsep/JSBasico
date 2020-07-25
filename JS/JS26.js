@@ -25,6 +25,7 @@ var cuenta={
  console.log (cuenta.saldo);
  console.log ("**********************");
  console.log ("**********************");
+ 
  let ingreso=prompt("Cuanto va a consignar?");
  cuenta.ingresar(ingreso);
  let retiro=prompt("Cuanto va a retirar?");
